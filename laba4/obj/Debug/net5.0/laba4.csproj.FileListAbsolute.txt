@@ -1,0 +1,16 @@
+E:\stuff\j\KPI\АСД2\laba4\laba4\bin\Debug\net5.0\laba4.exe
+E:\stuff\j\KPI\АСД2\laba4\laba4\bin\Debug\net5.0\laba4.deps.json
+E:\stuff\j\KPI\АСД2\laba4\laba4\bin\Debug\net5.0\laba4.runtimeconfig.json
+E:\stuff\j\KPI\АСД2\laba4\laba4\bin\Debug\net5.0\laba4.runtimeconfig.dev.json
+E:\stuff\j\KPI\АСД2\laba4\laba4\bin\Debug\net5.0\laba4.dll
+E:\stuff\j\KPI\АСД2\laba4\laba4\bin\Debug\net5.0\ref\laba4.dll
+E:\stuff\j\KPI\АСД2\laba4\laba4\bin\Debug\net5.0\laba4.pdb
+E:\stuff\j\KPI\АСД2\laba4\laba4\obj\Debug\net5.0\laba4.csproj.AssemblyReference.cache
+E:\stuff\j\KPI\АСД2\laba4\laba4\obj\Debug\net5.0\laba4.GeneratedMSBuildEditorConfig.editorconfig
+E:\stuff\j\KPI\АСД2\laba4\laba4\obj\Debug\net5.0\laba4.AssemblyInfoInputs.cache
+E:\stuff\j\KPI\АСД2\laba4\laba4\obj\Debug\net5.0\laba4.AssemblyInfo.cs
+E:\stuff\j\KPI\АСД2\laba4\laba4\obj\Debug\net5.0\laba4.csproj.CoreCompileInputs.cache
+E:\stuff\j\KPI\АСД2\laba4\laba4\obj\Debug\net5.0\laba4.dll
+E:\stuff\j\KPI\АСД2\laba4\laba4\obj\Debug\net5.0\ref\laba4.dll
+E:\stuff\j\KPI\АСД2\laba4\laba4\obj\Debug\net5.0\laba4.pdb
+E:\stuff\j\KPI\АСД2\laba4\laba4\obj\Debug\net5.0\laba4.genruntimeconfig.cache
