@@ -27,6 +27,8 @@ namespace laba4
 		{
 
 			StreamReader reader = null;
+			if (!File.Exists(filename))
+				File.Create(filename);
 			reader = new StreamReader(filename);
             Console.WriteLine("Opened file with name " + filename);
 			try {
